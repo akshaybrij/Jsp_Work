@@ -81,7 +81,7 @@ System.out.println(ck[0].getValue());
 <div class="jumbotron" id="jumbo" >
 <div class="container" >
 <div class="row">
-<center><h1 id="main">Stay For Hour's</h1></center>
+<center><h1 id="main">Stay</h1></center>
 <center>
 <%@include file = "Main.jsp" %>
 
